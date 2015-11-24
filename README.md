@@ -1,2 +1,2 @@
-# klip-issue-tracker
+# Klip Issue Tracker
 Public issue tracker for Klip.
