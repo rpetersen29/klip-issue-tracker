@@ -1,4 +1,5 @@
-# Klip Issue Tracker [<img src="http://developer.android.com/images/brand/en_app_rgb_wo_60.png">](https://play.google.com/store/apps/details?id=io.github.rpetersen.klip)
+[<img src="http://developer.android.com/images/brand/en_app_rgb_wo_60.png">](https://play.google.com/store/apps/details?id=io.github.rpetersen.klip)
+# Klip Issue Tracker
 
 This is the public issue tracker for [Klip for Android](https://play.google.com/store/apps/details?id=io.github.rpetersen.klip). Report bugs and request features here.
 
